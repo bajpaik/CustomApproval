@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sn_cmp_pol_action">
+    <sn_cmp_pol_action action="INSERT_OR_UPDATE">
+        <action_order>100</action_order>
+        <action_script_cat/>
+        <action_script_name/>
+        <action_type>7</action_type>
+        <bp_operation/>
+        <comments/>
+        <credentials/>
+        <endpoint_url/>
+        <group_id/>
+        <interface_id/>
+        <ipam_method_name/>
+        <ipam_provider_type/>
+        <is_active>false</is_active>
+        <is_group_approval>false</is_group_approval>
+        <is_manager_approval>false</is_manager_approval>
+        <is_script>false</is_script>
+        <is_user_approval>false</is_user_approval>
+        <method/>
+        <name>ChangeApproval</name>
+        <notification/>
+        <policy_rule display_value="KickoffApproval">8f0ba92fdba49300022f5f135e9619ae</policy_rule>
+        <property/>
+        <property_name/>
+        <provider/>
+        <script/>
+        <sys_class_name>sn_cmp_pol_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-05 23:43:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>531ba92fdba49300022f5f135e9619f9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ChangeApproval</sys_name>
+        <sys_package display_value="CustomApproval" source="x_snc_customapprov">82b4e9a7dba49300022f5f135e961900</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CustomApproval">82b4e9a7dba49300022f5f135e961900</sys_scope>
+        <sys_update_name>sn_cmp_pol_action_531ba92fdba49300022f5f135e9619f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-05 23:43:07</sys_updated_on>
+        <user_id/>
+        <value/>
+        <version/>
+        <workflow display_value="CMP Change Request">a0d8e9abdba49300022f5f135e9619ef</workflow>
+    </sn_cmp_pol_action>
+</record_update>
